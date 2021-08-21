@@ -85,3 +85,16 @@
 
 /* Uncomment out the line below to help debug layout issues */
 /*@import './imports/_debug';*/
+
+#parallax {
+    /* The image used */
+    background-image: linear-gradient(rgba(5, 14, 44, 0.74), rgba(68, 184, 219, 0.5)), url(https://specials-images.forbesimg.com/imageserve/5f302109ffad89f9130e07db/960x0.jpg?cropX1=0&cropX2=4800&cropY1=243&cropY2=2943);
+    /* Set a specific height */
+    height: 1000px;
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
