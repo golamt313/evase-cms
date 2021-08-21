@@ -19,7 +19,7 @@ intro:
     the art forums for support and sharing ideas. 
 
 
-    Pushing our hungry learners to become either a developer for a big company or a small project, an economist to analyze the world's economic welfare and conditions, be an online trader, sell, buy and exchange shares and stocks, becoming online safety supervisor and teach others in schools the risks online, Learn cyber security and defend against the dark arts, See what it means to become a professional computer linguist/analyst with wealth of data or a host for the world wide web! 
+    Pushing our hungry learners to become either a developer for a big company or a small project, an economist to analyze the world's economic welfare and conditions, be an online trader, sell, buy and exchange shares and stocks, becoming online safety supervisor and teach others in schools the risks online, Learn cyber security and defend against the dark arts, See what it means to become a professional computer linguist/analyst with wealth of data or hosting and telecommunicating for the world wide web! 
 products:
   - image: img/illustrations-coffee.svg
     text: We sell green and roasted coffee beans that are sourced directly from
