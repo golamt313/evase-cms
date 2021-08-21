@@ -4,8 +4,11 @@ subtitle: Learn, Build, Share Skills
 image: /img/home-jumbotron.jpg
 blurb:
   heading: Why Evase?
-  text: "Evase is an educational website aiming to bring the best out of an
-    individual's full potential "
+  text: Evase is an educational website aiming to bring the best out of an
+    individual's full potential.  We teach our bright students the true meaning
+    of the subject and how it is applied in real-life scenarios.  Evase
+    allocates each subject to having the best teacher, with degrees and worldly
+    experiences, vast portfolios, and more!
 intro:
   heading: What we offer
   text: >-
