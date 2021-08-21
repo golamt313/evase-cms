@@ -16,7 +16,8 @@ intro:
     Languages/Computer Sciences, Economics and Market Trading, Hosting online,
     Online Safety, and Cyber security. We additionally provide online classes,
     exercises, and homework, free sources and articles, and well as a state of
-    the art forums for support and sharing ideas. 
+    the art forums for support and sharing ideas.   
+
 
 
     Pushing our hungry learners to become either a developer for a big company or a small project, an economist to analyze the world's economic welfare and conditions, be an online trader, sell, buy and exchange shares and stocks, becoming online safety supervisor and teach others in schools the risks online, Learn cyber security and defend against the dark arts, See what it means to become a professional computer linguist/analyst with wealth of data or hosting and telecommunicating for the world wide web! 
@@ -34,8 +35,6 @@ products:
       fall in love with in our shop.
 values:
   heading: Our values
-  text: Coffee is an amazing part of human culture but it has a dark side too –
-    one of colonialism and mindless abuse of natural resources and human lives.
-    We want to turn this around and return the coffee trade to the drink’s
-    exhilarating, empowering and unifying nature.
+  text: Evase encourages our students to have aspirations for their life goals,
+    commitment in their studies,
 ---
