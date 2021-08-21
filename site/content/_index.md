@@ -38,5 +38,5 @@ products:
 values:
   heading: Our values
   text: Evase encourages our students to have aspirations for their life goals,
-    commitment in their studies,
+    commitment in their studies and above all fun in each subject.
 ---
