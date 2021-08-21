@@ -10,7 +10,7 @@ intro:
   heading: What we offer
   text: "We offer a variety of courses in our catalog such as Computer
     Languages/Computer Sciences, Economics and Market Trading, Hosting online,
-    Online Safety, and Cyber security. We additonally provide online classes,
+    Online Safety, and Cyber security. We additionally provide online classes,
     exercises, and homework, free sources and articles, and well as a state of
     the art forums for support and sharing ideas. Pushing our hungry learners to
     become either a developer for a big company or a small project, an economist
