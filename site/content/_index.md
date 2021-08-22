@@ -24,10 +24,10 @@ intro:
     computer linguist/analyst with wealth of data or hosting and
     telecommunicating for the world wide web! "
 products:
-  - image: img/illustrations-coffee.svg
-    text: we sell da dog
-  - image: /img/illustrations-coffee-gear.svg
-    text: We sell cetling bawsack soup
+  - image: https://symbols.getvecta.com/stencil_94/21_react.aa887299cd.svg
+    text: Javascript/React.JS (Learn Programming Language and Framework)
+  - image: https://practity.com/en/wp-content/uploads/sites/2/2018/03/html-css-tutorials2.jpg
+    text: HTML/CSS (Learn Web Development Fundamentals)
 values:
   heading: Our values
   text: Evase encourages our students to have aspirations for their life goals,
