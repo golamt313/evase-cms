@@ -1,11 +1,11 @@
 ---
 title: Contact
-logo: img/evasewhite.png
+logo: img/logo.png
 contact_entries:
   - heading: Location
     text: Based in England, (Birmingham) and Illinois, (Chicago)
   - heading: Working hours
-    text: "Monday – Saturday: 9AM – 7PM We’re closed on Sundays"
+    text: "Monday – Saturday: 9AM–7PM. We are closed on Sundays" 
   - text: For inquiries contact us via email support@evase.net
     heading: Contacts
 ---

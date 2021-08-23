@@ -11,7 +11,7 @@ blurb:
     experiences, vast portfolios, and more!
 intro:
   heading: What we offer
-  text: "We offer a variety of courses in our catalog such as Computer
+  text: "We offer a variety of Courses in our catalog such as Computer
     Languages/Computer Sciences, Economics and Market Trading, Hosting online,
     Online Safety, and Cyber security. We additionally provide online classes,
     exercises, and homework, free sources and articles, and well as a state of
@@ -23,7 +23,7 @@ intro:
     defend against the dark arts, See what it means to become a professional
     computer linguist/analyst with wealth of data or hosting and
     telecommunicating for the world wide web! "
-products:
+Courses:
   - image: https://symbols.getvecta.com/stencil_94/21_react.aa887299cd.svg
     text: Javascript/React.JS (Learn Programming Language and Framework)
   - image: https://practity.com/en/wp-content/uploads/sites/2/2018/03/html-css-tutorials2.jpg
