@@ -6,11 +6,7 @@ description: This article is based on how Evase was found, why, when and what
   this website? Read on to find out more...
 image: /img/blog-flavor_wheel.jpg
 ---
-Today on the 12th of November 2020, during the global pandemic of **COVID-19**, Two young brilliant minds joined together and founded one of the biggest educational platforms online, Evase. Evase was founded by CEO Rasib Helal and CEO and Co-founder Golam Tahsin.  
-
-
-
-
+Today on the 12th of November 2020, during the global pandemic of **COVID-19**, Two young brilliant minds joined together and founded one of the biggest educational platforms online, Evase. Evase was founded by CEO Rasib Helal and CEO and Co-founder Golam Tahsin.
 
 
 
