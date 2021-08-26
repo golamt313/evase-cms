@@ -76,5 +76,5 @@ pricing:
         - Unlimited varieties
       plan: Custom
       price: "?"
-type: courses
+type: products
 ---
