@@ -1,33 +1,16 @@
 ---
-<<<<<<< HEAD
 title: Our courses
 image: https://every-tuesday.com/wp-content/uploads/2016/04/courses.jpg
 heading: What we offer
 description: We offer a variety of courses in our catalog such as Computer
-=======
-title: Our Courses
-image: /img/Courses-jumbotron.jpg
-heading: What we offer
-description: We offer a variety of Courses in our catalog such as Computer
->>>>>>> parent of d14fa1a (copyright)
   Languages/Computer Sciences, Economics and Market Trading, Hosting online,
   Online Safety, and Cyber security.
 intro:
   blurbs:
-<<<<<<< HEAD
     - image: img/react.png
       text: |-
         Javascript/React.JS <br></br>
         (Learn Programming Language and Framework)
-=======
-    - image: /img/illustrations-coffee.svg
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
->>>>>>> parent of d14fa1a (copyright)
     - image: /img/illustrations-coffee-gear.svg
       text: >
         We offer a small, but carefully curated selection of brewing gear and
@@ -49,17 +32,9 @@ intro:
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
   heading: What we offer
-<<<<<<< HEAD
   description: We offer a variety of courses in our catalog such as Computer
     Languages/Computer Sciences, Economics and Market Trading, Hosting online,
     Online Safety, and Cyber security.
-=======
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
->>>>>>> parent of d14fa1a (copyright)
 main:
   heading: Great coffee with no compromises
   description: >
@@ -69,7 +44,6 @@ main:
     optimal for the plants, farmers and the local environment.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
-<<<<<<< HEAD
     image: /img/products-grid3.jpg
   image2:
     alt: A green cup of a coffee on a wooden table
@@ -77,15 +51,6 @@ main:
   image3:
     alt: Coffee beans
     image: /img/products-grid1.jpg
-=======
-    image: /img/Courses-grid3.jpg
-  image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/Courses-grid2.jpg
-  image3:
-    alt: Coffee beans
-    image: /img/Courses-grid1.jpg
->>>>>>> parent of d14fa1a (copyright)
 testimonials:
   - author: Elisabeth Kaurismäki
     quote: The first time I tried Kaldi’s coffee, I couldn’t even believe that was
@@ -93,11 +58,7 @@ testimonials:
   - author: Philipp Trommler
     quote: Kaldi is the place to go if you want the best quality coffee. I love
       their stance on empowering farmers and transparency.
-<<<<<<< HEAD
 full_image: /img/products-full-width.jpg
-=======
-full_image: /img/Courses-full-width.jpg
->>>>>>> parent of d14fa1a (copyright)
 pricing:
   heading: Monthly subscriptions
   description: We make it easy to make great coffee a part of your life. Choose
@@ -125,9 +86,5 @@ pricing:
         - Unlimited varieties
       plan: Custom
       price: "?"
-<<<<<<< HEAD
 type: products
-=======
-type: Courses
->>>>>>> parent of d14fa1a (copyright)
 ---
