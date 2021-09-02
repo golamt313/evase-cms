@@ -4,7 +4,7 @@ image: https://every-tuesday.com/wp-content/uploads/2016/04/courses.jpg
 heading: What we offer
 description: We offer a variety of courses in our catalog such as Computer
   Languages/Computer Sciences, Economics and Market Trading, Hosting online,
-  Online Safety, and Cyber security.
+  Online Safety, and Cyber security
 intro:
   blurbs:
     - image: img/react.png
